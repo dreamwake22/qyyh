@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://120.79.210.51/app/ios/wyy.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.xxzyw.top/mm/ICon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.xxzyw.top/mm/ICon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.netease.cloudmusic</string>
+				<key>bundle-version</key>
+				<string>5.7.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>网易云音乐</string>
+				<key>title</key>
+				<string>网易云音乐破解版,更多资源请关注公众号：青衣雅会</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+
+
+
+
